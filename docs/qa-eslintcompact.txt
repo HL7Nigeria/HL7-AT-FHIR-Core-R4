@@ -1,0 +1,28 @@
+HL7NGFHIRCoreR4
+=========================================
+
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\fsh-generated\resources\Patient-NigeriaPatientExample.json: line 19, col 8, Error - Unknown code 'NIN' in the CodeSystem 'http://terminology.hl7.org/CodeSystem/v2-0203' version '4.0.0' (CODEINVALID)
+
+err = 1, warn = 4, info = 0
+IG Publisher Version: 1.6.31

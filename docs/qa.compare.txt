@@ -1,0 +1,37 @@
+HL7NGFHIRCoreR4 : Validation Results
+=========================================
+
+err = 1, warn = 4, info = 0
+$--
+Generated $--. FHIR version $-- for hl7.ng#$-- (canonical = http://hl7.ng)
+ Build Errors : 17 / 4 / 0
+ D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\fsh-generated\resources\ImplementationGuide-hl7.ng : 0 / 0 / 1
+ D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\fsh-generated\resources\Patient-NigeriaPatientExample : 1 / 0 / 1
+ D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\fsh-generated\resources\StructureDefinition-NigeriaPatient : 0 / 0 / 1
+</table>
+== n/a ==
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\Patient-NigeriaPatientExample.change.history.html#/html/body/div/div/div/p/a at Line 184, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\Patient-NigeriaPatientExample.html#/html/body/div/div/div/p/a at Line 193, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\Patient-NigeriaPatientExample.json.html#/html/body/div/div/div/p/a at Line 229, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\Patient-NigeriaPatientExample.ttl.html#/html/body/div/div/div/p/a at Line 229, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\Patient-NigeriaPatientExample.xml.html#/html/body/div/div/div/p/a at Line 219, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient-definitions.html#/html/body/div/div/div/p/a at Line 651, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient-examples.html#/html/body/div/div/div/p/a at Line 231, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient-mappings.html#/html/body/div/div/div/p/a at Line 375, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient-testing.html#/html/body/div/div/div/p/a at Line 238, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient.html#/html/body/div/div/div/p/a at Line 1997, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient.profile.history.html#/html/body/div/div/div/p/a at Line 220, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient.profile.json.html#/html/body/div/div/div/p/a at Line 3390, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient.profile.ttl.html#/html/body/div/div/div/p/a at Line 2472, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\StructureDefinition-NigeriaPatient.profile.xml.html#/html/body/div/div/div/p/a at Line 3145, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\artifacts.html#/html/body/div/div/div/p/a at Line 193, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\index.html#/html/body/div/div/div/p/a at Line 198, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+ERROR: D:\Content\DIEN\WebApps\__cloneapps\HL7-NG-FHIR-Core-R4\output\toc.html#/html/body/div/div/div/p/a at Line 140, column 28: The link 'http://hl7.ng/publisher' for "Dien Bassey (Dienstack)" cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-hl7.ng.json ==
+== fsh-generated\resources\Patient-NigeriaPatientExample.json ==
+ERROR: Patient/NigeriaPatientExample: Patient.identifier[0].type.coding[0].code: Unknown code 'NIN' in the CodeSystem 'http://terminology.hl7.org/CodeSystem/v2-0203' version '4.0.0'
+== fsh-generated\resources\StructureDefinition-NigeriaPatient.json ==

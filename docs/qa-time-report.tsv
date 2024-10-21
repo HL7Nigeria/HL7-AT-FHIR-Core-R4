@@ -1,0 +1,4 @@
+Source File	Size	loadResources	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+\fsh-generated\resources\ImplementationGuide-hl7.ng.json	1595	-	1	0	0	0	0	0	10	450	0	0	0	1	0	0	0	0	0	0	485	264	0	0	1	3	0	4
+fsh-generated/resources/Patient-NigeriaPatientExample.json	626	31	0	0	0	0	0	0	0	790	0	0	0	0	0	0	0	0	0	0	185	114	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-NigeriaPatient.json	1445	30	0	0	0	0	0	310	0	248	0	0	1	0	0	0	0	5	0	0	2560	7534	0	0	0	22	0	2

@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "hl7.ng",
+    "type" : "ImplementationGuide",
+    "url" : "http://hl7.ng/ImplementationGuide/hl7.ng",
+    "version" : "0.1.0",
+    "name" : "HL7NGFHIRCoreR4"
+  },
+  {
+    "id" : "NigeriaPatient",
+    "type" : "StructureDefinition",
+    "url" : "http://hl7.ng/StructureDefinition/NigeriaPatient",
+    "version" : "0.1.0",
+    "name" : "NigeriaPatient"
+  }
+]

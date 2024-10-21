@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Patient xmlns="http://hl7.org/fhir">
+  <id value="NigeriaPatientExample"/>
+  <meta>
+    <profile value="http://hl7.ng/StructureDefinition/NigeriaPatient"/>
+  </meta>
+  <text>
+    <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><p class="res-header-id"><b>Generated Narrative: Patient NigeriaPatientExample</b></p><a name="NigeriaPatientExample"> </a><a name="hcNigeriaPatientExample"> </a><a name="NigeriaPatientExample-en-US"> </a><p style="border: 1px #661aff solid; background-color: #e6e6ff; padding: 10px;">James Pond  (no stated gender), DoB Unknown ( National Identification Number: 1234567890 (use: official, ))</p><hr/></div>
+  </text>
+  <identifier>
+    <use value="official"/>
+    <type>
+      <coding>
+        <system value="http://terminology.hl7.org/CodeSystem/v2-0203"/>
+        <code value="NIN"/>
+        <display value="National Identification Number"/>
+      </coding>
+    </type>
+    <system value="urn:oid:2.16.840.1.113883.4.1"/>
+    <value value="1234567890"/>
+  </identifier>
+  <name>
+    <family value="Pond"/>
+    <given value="James"/>
+  </name>
+</Patient>
